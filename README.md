@@ -9,12 +9,12 @@ My projects below:
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Project_1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) |  | *pandas*, *nltk* |
-| [Project_2_Research_on_apartment_sales_ads](Project_2_Research_on_apartment_sales_ads) |  | *pandas*, *matplotlib.pyplot* |
-| [Project_3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) |  | *pandas*, *matplotlib.pyplot* |
-| [Project_4_Research_of_the_game_success](Project_4_Research_of_the_game_success) |  | *pandas*, *matplotlib.pyplot* |
-| [Project_5_Research_of_ride-sharing_passenger_preferences](Project_5_Research_of_ride-sharing_passenger_preferences) |  | *pandas*, *matplotlib.pyplot* |
-| [Project_6_The_calling_plan_prediction](Project_6_The_calling_plan_prediction) |  | *pandas*, *matplotlib.pyplot* |
-| [Project_7_The_bank_customer_churn_prediction](Project_7_The_bank_customer_churn_prediction) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_2_Research_on_apartment_sales_ads](Project_2_Research_on_apartment_sales_ads) |  | *pandas*, *matplotlib.pyplot*, *numpy* |
+| [Project_3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
+| [Project_4_Research_of_the_game_success](Project_4_Research_of_the_game_success) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
+| [Project_5_Research_of_ride-sharing_passenger_preferences](Project_5_Research_of_ride-sharing_passenger_preferences) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
+| [Project_6_The_calling_plan_prediction](Project_6_The_calling_plan_prediction) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *sklearn* |
+| [Project_7_The_bank_customer_churn_prediction](Project_7_The_bank_customer_churn_prediction) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *sklearn* |
 | [Project_8_Finding_the_best_place_for_a_new_oil_well](Project_8_Finding_the_best_place_for_a_new_oil_well) |  | *pandas*, *matplotlib.pyplot* |
 | [Project_9_Prediction_the_amount_of_gold](Project_9_Prediction_the_amount_of_gold) |  | *pandas*, *matplotlib.pyplot* |
 | [Project_10_Development_a_data_transforming_algorithm](Project_10_Development_a_data_transforming_algorithm) |  | *pandas*, *matplotlib.pyplot* |
