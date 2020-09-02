@@ -12,15 +12,15 @@ My projects below:
 | :---------------------- | :---------------------- | :---------------------- |
 | [Project_1_Analyzing borrowers’ risk of defaulting](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
 | [Project_2_Research on apartment sales ads](real_estate) |  | *pandas*, *matplotlib.pyplot* |
-| [Project_3_Research profitable calling plan](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_4_Research of the game success](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_5_Research of ride-sharing passenger preferences](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_6_The calling plan prediction](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_7_The bank customer churn prediction](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_8_Finding the best place for a new oil well](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_9_Prediction the amount of gold](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_10_Development a data transforming algorithm](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_11_Model to determine the car value](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_12_Prediction of taxi orders for the next hour](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_13_The system for detecting negative reviews](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
-| [Project_14_Computer vision system for prediction customer age](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
+| [Project_3_Research profitable calling plan](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_4_Research of the game success](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_5_Research of ride-sharing passenger preferences](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_6_The calling plan prediction](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_7_The bank customer churn prediction](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_8_Finding the best place for a new oil well](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_9_Prediction the amount of gold](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_10_Development a data transforming algorithm](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_11_Model to determine the car value](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_12_Prediction of taxi orders for the next hour](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_13_The system for detecting negative reviews](real_estate) |  | *pandas*, *matplotlib.pyplot* |
+| [Project_14_Computer vision system for prediction customer age](real_estate) |  | *pandas*, *matplotlib.pyplot* |
