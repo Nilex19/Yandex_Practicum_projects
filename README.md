@@ -10,7 +10,7 @@ My projects below:
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Project_1_Analyzing borrowers’ risk of defaulting](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
+| [Project_1_Analyzing borrowers’ risk of defaulting](Project_1_Analyzing borrowers’ risk of defaulting) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
 | [Project_2_Research on apartment sales ads](real_estate) |  | *pandas*, *matplotlib.pyplot* |
 | [Project_3_Research profitable calling plan](real_estate) |  | *pandas*, *matplotlib.pyplot* |
 | [Project_4_Research of the game success](real_estate) |  | *pandas*, *matplotlib.pyplot* |
