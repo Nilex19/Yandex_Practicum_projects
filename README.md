@@ -6,7 +6,7 @@ I did data analysis and machine learning tasks here.
 
 ## An example of project desriptions in README.md
 
-These projects were completed for Practicum's Data Analyst / Data Scientist professional training programs.
+My projects below:
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
