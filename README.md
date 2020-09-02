@@ -3,9 +3,6 @@ Author: Alexey Nikonorov <br />
 # This is repo with "Data Scientist" course from "Practicum by Yandex", 2020.
 
 I did data analysis and machine learning tasks here.
-
-## An example of project desriptions in README.md
-
 My projects below:
 
 | Project name | Description | Libraries used | 
