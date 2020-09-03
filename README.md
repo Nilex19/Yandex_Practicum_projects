@@ -8,7 +8,7 @@ My projects below:
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Project_1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) |  | *pandas*, *nltk* |
+| [Project_1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Finding out if a customer’s marital status and number of children has an impact on whether they will default on a loan. Report will be considered when building a credit scoring of a potential customer. | *pandas*, *nltk* |
 | [Project_2_Research_on_apartment_sales_ads](Project_2_Research_on_apartment_sales_ads) |  | *pandas*, *matplotlib.pyplot*, *numpy* |
 | [Project_3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
 | [Project_4_Research_of_the_game_success](Project_4_Research_of_the_game_success) |  | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
