@@ -13,7 +13,7 @@ My projects below:
 | [Project_3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) | Identifying which of the calling plans is more profitable in order to adjust the advertising budget. | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
 | [Project_4_Research_of_the_game_success](Project_4_Research_of_the_game_success) | Finding patterns that determine whether a videogame succeeds or not. | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
 | [Project_5_Research_of_ride-sharing_passenger_preferences](Project_5_Research_of_ride-sharing_passenger_preferences) | Finding patterns to understand ride-sharing passenger preferences and the impact of external factors on rides. | *pandas*, *matplotlib.pyplot*, *numpy*, *math*, *scipy* |
-| [Project_6_The_calling_plan_prediction](Project_6_The_calling_plan_prediction) |  | *pandas*, *numpy*, *sklearn* |
+| [Project_6_The_calling_plan_prediction](Project_6_The_calling_plan_prediction) | Development of the model that would analyze mobile carrier subscribers' behavior and recommend one of the newer plans: Smart or Ultra. | *pandas*, *numpy*, *sklearn* |
 | [Project_7_The_bank_customer_churn_prediction](Project_7_The_bank_customer_churn_prediction) |  | *pandas*, *numpy*, *sklearn* |
 | [Project_8_Finding_the_best_place_for_a_new_oil_well](Project_8_Finding_the_best_place_for_a_new_oil_well) |  | *pandas*, *numpy*, *sklearn* |
 | [Project_9_Prediction_the_amount_of_gold](Project_9_Prediction_the_amount_of_gold) |  | *pandas*, *matplotlib.pyplot*, *seaborn*, *numpy*, *sklearn*, *scipy* |
