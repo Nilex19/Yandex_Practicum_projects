@@ -1,3 +1,3 @@
 # Research of the game success
 
-The online store *Ice* sells videogames all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. We need *to identify patterns that determine whether a game succeeds or not*. This allows us to put our money on a potentially hot new item and plan advertising campaigns.
+Finding patterns that determine whether a videogame succeeds or not.
