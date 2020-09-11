@@ -8,7 +8,7 @@ My projects below:
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Project_1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Finding out if a customer’s marital status and number of children has an impact on whether they will default on a loan. Report will be considered when building a credit scoring of a potential customer. | *Pandas*, *Nltk* |
+| [1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Finding out if a customer’s marital status and number of children has an impact on whether they will default on a loan. Report will be considered when building a credit scoring of a potential customer. | *Pandas*, *Nltk* |
 | [Project_2_Research_on_apartment_sales_ads](Project_2_Research_on_apartment_sales_ads) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraudulent activity. | *Pandas*, *Matplotlib*, *Numpy* |
 | [Project_3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) | Identifying which of the calling plans is more profitable in order to adjust the advertising budget. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy* |
 | [Project_4_Research_of_the_game_success](Project_4_Research_of_the_game_success) | Finding patterns that determine whether a videogame succeeds or not. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy* |
