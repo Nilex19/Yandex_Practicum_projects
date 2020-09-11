@@ -12,5 +12,5 @@ Computer vision system for processing customer photos, which will help determine
 Pandas, Matplotlib, Numpy, PIL, Keras, Tensorflow
 
 *Conclusions:*  
-We have dataset with 7591 images with people ages from 1 to 100. Some photos colored, some black and white. Somewhere people are depicted the front face, somewhere the side view. 
+We have dataset with 7591 images with people ages from 1 to 100. Some photos colored, some black and white. Somewhere people are depicted the front face, somewhere the side view.  
 We have best mae = 6.7397 with 20 epoches for ResNet50.
